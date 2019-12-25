@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+            <string name="app_name">Persönliche Finanzen</string>
+
+            <string name="add_movimento">Auszug hinzufügen</string>
+            <string name="saldo">Kontostand</string>
+
+            <string name="descricao">Beschreibung</string>
+            <string name="categoria">Kategorie</string>
+            <string name="valor">Wert</string>
+            <string name="dia">Datum</string>
+            <string name="tipo">Typ</string>
+            <string name="receita">Einkommen</string>
+            <string name="despesa">Ausgabe</string>
+            <string name="adicionar">Hinzufügen</string>
+
+            <string name="filtro_semana">Diese Woche</string>
+            <string name="filtro_mês">Diesen Monat</string>
+            <string name="filtro_todos">Alle Auszüge</string>
+
+            <string name="definicoes">Einstellungen</string>
+            <string name="categorias">Kategorien verwalten</string>
+            <string name="add_categoria">Kategorie hinzufügen</string>
+            <string name="nome">Name</string>
+
+            <string name="editar">Ändern</string>
+            <string name="eliminar">Löschen</string>
+
+            <string name="educacao">Ausbildung</string>
+            <string name="alimentacao">Nahrung</string>
+            <string name="casa">Unterkunft</string>
+            <string name="carro">Farhzeug</string>
+            <string name="divertimento">Unterhaltung</string>
+            <string name="tecnologia">Technologie</string>
+            <string name="pessoal">Persönliches</string>
+
+            <string name="add_nova_cat">Neue Kategorie hinzufügen</string>
+            <string name="alt_nova_cat">Kategorie ändern</string>
+            <string name="modificar">Ändern</string>
+
+            <string name="filtro_inicial">Start Filterung</string>
+
+            <string name="escolha_idioma">Sprachauswahl</string>
+</resources>

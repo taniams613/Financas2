@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filtro_semana"
+        android:icon="@drawable/calendar_week"
+        android:orderInCategory="100"
+        android:title="@string/filtro_semana"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/filtro_mes"
+        android:icon="@drawable/calendar_month"
+        android:orderInCategory="100"
+        android:title="@string/filtro_mês"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/filtro_todos"
+        android:icon="@drawable/calendar_all"
+        android:orderInCategory="100"
+        android:title="@string/filtro_todos"
+        app:showAsAction="always"></item>
+
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="@string/definicoes"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@id/categorias"
+        android:orderInCategory="100"
+        android:title="@string/categorias"
+        app:showAsAction="never"></item>
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="filtro_inicial"
+        android:title="@string/filtro_inicial"
+        android:entries="@array/array_lista_entradas"
+        android:entryValues="@array/array_lista_valores"/>
+    <ListPreference
+        android:key="idioma_preferido"
+        android:title="@string/escolha_idioma"
+        android:entries="@array/array_lista_idiomas"
+        android:entryValues="@array/array_lista_idiomas_valores">
+    </ListPreference>
+</PreferenceScreen>

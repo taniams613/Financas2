@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_lista_entradas">
+        <item>@string/filtro_semana</item>
+        <item>@string/filtro_mês</item>
+        <item>@string/filtro_todos</item>
+    </array>
+    <array name="array_lista_valores">
+        <item>v0</item>
+        <item>v1</item>
+        <item>v2</item>
+    </array>
+
+    <array name="array_lista_idiomas">
+        <item>Português</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Deutsch</item>
+        <item>English</item>
+    </array>
+    <array name="array_lista_idiomas_valores">
+        <item>PT</item>
+        <item>ES</item>
+        <item>FR</item>
+        <item>DE</item>
+        <item>EN</item>
+    </array>
+</resources>

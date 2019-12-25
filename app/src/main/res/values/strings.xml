@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Personal Finances</string>
+
+        <string name="add_movimento">Add movement</string>
+        <string name="saldo">Balance</string>
+
+        <string name="descricao">Description</string>
+        <string name="categoria">Category</string>
+        <string name="valor">Value</string>
+        <string name="dia">Date</string>
+        <string name="tipo">Type</string>
+        <string name="receita">Income</string>
+        <string name="despesa">Expense</string>
+        <string name="adicionar">Add</string>
+
+        <string name="filtro_semana">This week</string>
+        <string name="filtro_mês">This month</string>
+        <string name="filtro_todos">All movements</string>
+
+        <string name="definicoes">Definitions</string>
+        <string name="categorias">Manage Categories</string>
+        <string name="add_categoria">Add Category</string>
+        <string name="nome">Name</string>
+
+        <string name="editar">Edit</string>
+        <string name="eliminar">Delete</string>
+
+        <string name="educacao">Education</string>
+        <string name="alimentacao">Food</string>
+        <string name="casa">Home</string>
+        <string name="carro">Car</string>
+        <string name="divertimento">Amusement</string>
+        <string name="tecnologia">Technology</string>
+        <string name="pessoal">Personal</string>
+
+        <string name="add_nova_cat">Add new category</string>
+        <string name="alt_nova_cat">Change category</string>
+        <string name="modificar">Change</string>
+
+        <string name="filtro_inicial">Initial Filter</string>
+
+        <string name="escolha_idioma">Choose your language</string>
+
+</resources>

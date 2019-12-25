@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Finanzas personales</string>
+
+        <string name="add_movimento">Añadir movimiento</string>
+        <string name="saldo">Saldo</string>
+
+        <string name="descricao">Descripción</string>
+        <string name="categoria">Categoría</string>
+        <string name="valor">Valor</string>
+        <string name="dia">Fecha</string>
+        <string name="tipo">Tipo</string>
+        <string name="receita">Rentas</string>
+        <string name="despesa">Gastos</string>
+        <string name="adicionar">Añadir</string>
+
+        <string name="filtro_semana">Esta semana</string>
+        <string name="filtro_mês">Este mes</string>
+        <string name="filtro_todos">Todos los movimientos</string>
+
+        <string name="definicoes">Definiciones</string>
+        <string name="categorias">Gestionar categorías</string>
+        <string name="add_categoria">Añadir categoría</string>
+        <string name="nome">Nombre</string>
+
+        <string name="editar">Editar</string>
+        <string name="eliminar">Eliminar</string>
+
+        <string name="educacao">Educación</string>
+        <string name="alimentacao">Comida</string>
+        <string name="casa">Casa</string>
+        <string name="carro">Coche</string>
+        <string name="divertimento">Diversión</string>
+        <string name="tecnologia">Tecnología</string>
+        <string name="pessoal">Personal</string>
+
+        <string name="add_nova_cat">Añadir una nueva categoría</string>
+        <string name="alt_nova_cat">Modificar categoría</string>
+        <string name="modificar">Modificar</string>
+
+        <string name="filtro_inicial">Filtro inicial</string>
+
+        <string name="escolha_idioma">Seleccione su idioma</string>
+</resources>

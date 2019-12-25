@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+            <string name="app_name">Finances Personelles</string>
+
+            <string name="add_movimento">Ajouter mouvement</string>
+            <string name="saldo">Solde</string>
+
+            <string name="descricao">Description</string>
+            <string name="categoria">Catégorie</string>
+            <string name="valor">Valeur</string>
+            <string name="dia">Date</string>
+            <string name="tipo">Type</string>
+            <string name="receita">Revenu</string>
+            <string name="despesa">Dépense</string>
+            <string name="adicionar">Ajouter</string>
+
+            <string name="filtro_semana">Cette semaine</string>
+            <string name="filtro_mês">Ce mois</string>
+            <string name="filtro_todos">Tous les mouvements</string>
+
+            <string name="definicoes">Paramètres</string>
+            <string name="categorias">Gerer catégories</string>
+            <string name="add_categoria">Ajouter catégorie</string>
+            <string name="nome">Nom</string>
+
+            <string name="editar">Editer</string>
+            <string name="eliminar">Éliminer</string>
+
+            <string name="educacao">Éducation</string>
+            <string name="alimentacao">Nourriture</string>
+            <string name="casa">Maison</string>
+            <string name="carro">Voiture</string>
+            <string name="divertimento">Divertissment</string>
+            <string name="tecnologia">Technologie</string>
+            <string name="pessoal">Personnel</string>
+
+            <string name="add_nova_cat">Ajouter une nouvelle catégorie</string>
+            <string name="alt_nova_cat">Changer catégorie</string>
+            <string name="modificar">Changer</string>
+
+            <string name="filtro_inicial">Filtre initial</string>
+
+            <string name="escolha_idioma">Choisissez votre langue</string>
+
+
+
+</resources>
